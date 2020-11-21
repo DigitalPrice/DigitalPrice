@@ -1,60 +1,41 @@
-[![Build Status](https://travis-ci.org/KomodoPlatform/komodo.svg?branch=master)](https://travis-ci.org/KomodoPlatform/komodo)
-[![Version](https://img.shields.io/github/v/release/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/releases)
-[![Issues](https://img.shields.io/github/issues-raw/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/issues)
-[![PRs](https://img.shields.io/github/issues-pr-closed/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/pulls)
-[![Commits](https://img.shields.io/github/commit-activity/y/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/commits/dev)
-[![Contributors](https://img.shields.io/github/contributors/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/komodoplatform/komodo)](https://github.com/KomodoPlatform/komodo/graphs/commit-activity)
+[![Build Status](https://github.com/DigitalPrice/DigitalPrice/workflows/DigitalPrice%20auto%20release/badge.svg)](https://github.com/DigitalPrice/DigitalPrice/actions)
+[![Version](https://img.shields.io/github/v/release/DigitalPrice/DigitalPrice)](https://github.com/DigitalPrice/DigitalPrice/releases)
+[![Issues](https://img.shields.io/github/issues-raw/DigitalPrice/DigitalPrice)](https://github.com/DigitalPrice/DigitalPrice/issues)
+[![PRs](https://img.shields.io/github/issues-pr-closed/DigitalPrice/DigitalPrice)](https://github.com/DigitalPrice/DigitalPrice/pulls)
+[![Commits](https://img.shields.io/github/commit-activity/y/DigitalPrice/DigitalPrice)](https://github.com/DigitalPrice/DigitalPrice/commits/dev)
+[![Contributors](https://img.shields.io/github/contributors/DigitalPrice/DigitalPrice)](https://github.com/DigitalPrice/DigitalPrice/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/DigitalPrice/DigitalPrice)](https://github.com/DigitalPrice/DigitalPrice/graphs/commit-activity)
 
-[![gitstars](https://img.shields.io/github/stars/komodoplatform/komodo?style=social)](https://github.com/KomodoPlatform/komodo/stargazers)
-[![twitter](https://img.shields.io/twitter/follow/komodoplatform?style=social)](https://twitter.com/komodoplatform)
-[![discord](https://img.shields.io/discord/412898016371015680)](https://discord.gg/tvp96Gf)
+[![gitstars](https://img.shields.io/github/stars/DigitalPrice/DigitalPrice?style=social)](https://github.com/DigitalPrice/DigitalPrice/stargazers)
+[![twitter](https://img.shields.io/twitter/follow/digitalpriceorg?style=social)](https://twitter.com/digitalpriceorg)
+[![discord](https://img.shields.io/discord/364887984501161994)](https://discord.gg/cZznuMG)
 
 ---
-![Komodo Logo](https://i.imgur.com/E8LtkAa.png "Komodo Logo")
+![DigitalPrice Logo](https://github.com/DigitalPrice/DP-Wallet/blob/static/src/qt/res/icons/komodo.png "DigitalPrice Logo")
 
 
-## Komodo
+## DigitalPrice
 
-This is the official Komodo sourcecode repository based on https://github.com/jl777/komodo. 
+This is the official DigitalPrice sourcecode repository based on https://github.com/KomodoPlatform/komodo.
 
 ## Development Resources
 
-- Komodo Website: [https://komodoplatform.com](https://komodoplatform.com/)
-- Komodo Blockexplorer: [https://kmdexplorer.io](https://kmdexplorer.io/)
-- Komodo Discord: [https://komodoplatform.com/discord](https://komodoplatform.com/discord)
-- Forum: [https://forum.komodoplatform.com](https://forum.komodoplatform.com/)
-- Mail: [info@komodoplatform.com](mailto:info@komodoplatform.com)
-- Support: [https://support.komodoplatform.com/support/home](https://support.komodoplatform.com/support/home)
+- Whitepaper: [DigitalPrice Whitepaper](https://github.com/DigitalPrice/Documents-and-Scripts/blob/master/Documents/DigitalPrice_Whitepaper_The_Real_Thing.pdf)
+- DigitalPrice Website: [https://digitalprice.org](https://digitalprice.org/)
+- DigitalPrice Blockexplorer: [https://dp.explorer.dexstats.info](https://dp.explorer.dexstats.info/)
 - Knowledgebase & How-to: [https://support.komodoplatform.com/en/support/solutions](https://support.komodoplatform.com/en/support/solutions)
 - API references & Dev Documentation: [https://developers.komodoplatform.com](https://developers.komodoplatform.com/)
-- Blog: [https://blog.komodoplatform.com](https://blog.komodoplatform.com/)
-- Whitepaper: [Komodo Whitepaper](https://komodoplatform.com/whitepaper)
-- Komodo Platform public material: [Komodo Platform public material](https://docs.google.com/document/d/1AbhWrtagu4vYdkl-vsWz-HSNyNvK-W-ZasHCqe7CZy0)
 
-## List of Komodo Platform Technologies
-
-- Delayed Proof of Work (dPoW) - Additional security layer and Komodos own consensus algorithm  
-- zk-SNARKs - Komodo Platform's privacy technology for shielded transactions  
-- Tokens/Assets Technology - create "colored coins" on the Komodo Platform and use them as a layer for securites  
-- Reward API - Komodo CC technology for securities  
-- CC - Crypto Conditions to realize "smart contract" logic on top of the Komodo Platform  
-- Jumblr - Decentralized tumbler for KMD and other cryptocurrencies  
-- Assetchains - Create your own Blockchain that inherits all Komodo Platform functionalities and blockchain interoperability  
-- Pegged Assets - Chains that maintain a peg to fiat currencies  
-- Peerchains - Scalability solution where sibling chains form a network of blockchains  
-- More in depth covered [here](https://docs.google.com/document/d/1AbhWrtagu4vYdkl-vsWz-HSNyNvK-W-ZasHCqe7CZy0)  
-- Also note you receive 5% Active User Reward on your balance.  
-[See this article for more details](https://support.komodoplatform.com/en/support/solutions/articles/29000024515-how-to-claim-the-kmd-active-user-reward-in-agama)
 
 ## Tech Specification
-- Max Supply: 200 million KMD
-- Block Time: 60 seconds
-- Block Reward: 3 KMD
+- Max Supply: 100 million DP (reached at block 6884282)
+- Block Time: 120 seconds
+- Block Reward: 6.46 DP
 - Mining Algorithm: Equihash
 
 ## About this Project
-Komodo is based on Zcash and has been extended by our innovative consensus algorithm called dPoW which utilizes Bitcoin's hashrate to store Komodo blockchain information into the Bitcoin blockchain. Other new and native Komodo features are the privacy technology called JUMBLR, our assetchain capabilities (one click plug and play blockchain solutions) and a set of financial decentralization and interoperability technologies. More details are available under https://komodoplatform.com/ and https://blog.komodoplatform.com.
+DigitalPrice is built on Komodo technology and uses a dual mode of PoS/PoW for block creation, offering the best of both worlds.
+Using Komodo's runtime fork technology allows DigitalPrice to both be an independent chain (with its own advancements) and "lean on" Komodo development at the same time.
 
 ## Getting started
 
@@ -65,17 +46,17 @@ Komodo is based on Zcash and has been extended by our innovative consensus algor
 sudo apt-get install build-essential pkg-config libc6-dev m4 g++-multilib autoconf libtool ncurses-dev unzip git python python-zmq zlib1g-dev wget libcurl4-gnutls-dev bsdmainutils automake curl libsodium-dev
 ```
 
-### Build Komodo
+### Build DigitalPrice
 
 This software is based on zcash and considered experimental and is continously undergoing heavy development.
 
-The dev branch is considered the bleeding edge codebase while the master-branch is considered tested (unit tests, runtime tests, functionality). At no point of time do the Komodo Platform developers take any responsbility for any damage out of the usage of this software. 
-Komodo builds for all operating systems out of the same codebase. Follow the OS specific instructions from below.
+The dev branch is considered the bleeding edge codebase while the master-branch is considered tested (unit tests, runtime tests, functionality). At no point of time do the DigitalPrice developers take any responsbility for any damage out of the usage of this software.
+DigitalPrice builds for all operating systems out of the same codebase. Follow the OS specific instructions from below.
 
 #### Linux
 ```shell
-git clone https://github.com/komodoplatform/komodo --branch master --single-branch
-cd komodo
+git clone https://github.com/DigitalPrice/DigitalPrice --branch master --single-branch
+cd DigitalPrice
 ./zcutil/fetch-params.sh
 ./zcutil/build.sh -j$(expr $(nproc) - 1)
 #This can take some time.
@@ -88,7 +69,7 @@ Ensure you have [brew](https://brew.sh) and Command Line Tools installed.
 # Install brew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 # Install Xcode, opens a pop-up window to install CLT without installing the entire Xcode package
-xcode-select --install 
+xcode-select --install
 # Update brew and install dependencies
 brew update
 brew upgrade
@@ -99,10 +80,10 @@ brew install binutils
 brew install protobuf
 brew install coreutils
 brew install wget
-# Clone the Komodo repo
-git clone https://github.com/komodoplatform/komodo --branch master --single-branch
+# Clone the DigitalPrice repo
+git clone https://github.com/DigitalPrice/DigitalPrice --branch master --single-branch
 # Change master branch to other branch you wish to compile
-cd komodo
+cd DigitalPrice
 ./zcutil/fetch-params.sh
 ./zcutil/build-mac.sh -j$(expr $(sysctl -n hw.ncpu) - 1)
 # This can take some time.
@@ -121,82 +102,39 @@ sudo update-alternatives --config x86_64-w64-mingw32-gcc
 sudo update-alternatives --config x86_64-w64-mingw32-g++
 # (configure to use POSIX variant)
 
-git clone https://github.com/jl777/komodo --branch master --single-branch
-cd komodo
+git clone https://github.com/DigitalPrice/DigitalPrice --branch master --single-branch
+cd DigitalPrice
 ./zcutil/fetch-params.sh
 ./zcutil/build-win.sh -j$(expr $(nproc) - 1)
 #This can take some time.
 ```
-**komodo is experimental and a work-in-progress.** Use at your own risk.
+**DigitalPrice is experimental and a work-in-progress.** Use at your own risk.
 
-To reset the Komodo blockchain change into the *~/.komodo* data directory and delete the corresponding files by running `rm -rf blocks chainstate debug.log komodostate db.log`
+To reset the DigitalPrice blockchain change into the *~/.komodo/DP* data directory and delete the corresponding files by running `rm -rf blocks chainstate debug.log komodostate db.log`
 
-#### Create komodo.conf
+#### Create DP.conf (auto-created under most circumstances)
 
-Create a komodo.conf file:
+Create a DP.conf file:
 
 ```
-mkdir ~/.komodo
-cd ~/.komodo
-touch komodo.conf
+mkdir ~/.komodo/DP
+cd ~/.komodo/DP
+touch DP.conf
 
 #Add the following lines to the komodo.conf file:
 rpcuser=yourrpcusername
 rpcpassword=yoursecurerpcpassword
 rpcbind=127.0.0.1
 txindex=1
-addnode=77.75.121.138
-addnode=95.213.238.100
-addnode=94.130.148.142
-addnode=103.6.12.105
-addnode=139.99.209.214
-addnode=185.130.212.13
-addnode=5.9.142.219
-addnode=200.25.4.38
-addnode=139.99.136.148
 
 ```
-### Create your own Blockchain based on Komodo
 
-Komodo allows anyone to create a runtime fork which represents an independent Blockchain. Below are the detailed instructions:
-Setup two independent servers with at least 1 server having a static IP and build komodod on those servers.  
-
-#### On server 1 (with static IP) run:
-```shell
-./komodod -ac_name=name_of_your_chain -ac_supply=100000 -bind=ip_of_server_1 &
-```
-
-#### On server 2 run:
-```shell
-./komodod -ac_name=name_of_your_chain -ac_supply=100000 -addnode=ip_of_server_1 -gen &
-```
-
-**Komodo is based on Zcash which is unfinished and highly experimental.** Use at your own risk.
+**DigitalPrice is based on Komodo which is unfinished and highly experimental.** Use at your own risk.
 
 License
 -------
-For license information see the file [COPYING](COPYING).
+For license information see the file [COPYING](../../tree/master/LEGAL/COPYING).
 
-**NOTE TO EXCHANGES:**
-https://bitcointalk.org/index.php?topic=1605144.msg17732151#msg17732151
-There is a small chance that an outbound transaction will give an error due to mismatched values in wallet calculations. There is a -exchange option that you can run komodod with, but make sure to have the entire transaction history under the same -exchange mode. Otherwise you will get wallet conflicts.
-
-**To change modes:**
-
-a) backup all privkeys (launch komodod with `-exportdir=<path>` and `dumpwallet`)  
-b) start a totally new sync including `wallet.dat`, launch with same `exportdir`  
-c) stop it before it gets too far and import all the privkeys from a) using `komodo-cli importwallet filename`  
-d) resume sync till it gets to chaintip  
-
-For example:
-```shell
-./komodod -exportdir=/tmp &
-./komodo-cli dumpwallet example
-./komodo-cli stop
-mv ~/.komodo ~/.komodo.old && mkdir ~/.komodo && cp ~/.komodo.old/komodo.conf ~/.komodo.old/peers.dat ~/.komodo
-./komodod -exchange -exportdir=/tmp &
-./komodo-cli importwallet /tmp/example
-```
 ---
 
 
